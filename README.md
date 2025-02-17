@@ -6,6 +6,8 @@ Customer retention is a key challenge for businesses, and understanding churn pa
 
 
 ## About the Project
+--> This Project was Part of Round 2 of Statisella - Data Analytics Competition hosted by IIT BHU, flagship event of its Bussiness Club.
+
 --> Developed an interactive Power BI dashboard to analyze customer churn, visualizing key metrics like churn rate, credit score, and product usage.
 
 --> Integrated multiple filters and advanced visualizations (bar charts, pie charts) to track active customers, complaints, and satisfaction trends.
